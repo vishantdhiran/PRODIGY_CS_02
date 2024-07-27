@@ -1,1 +1,2 @@
 # PRODIGY_CS_02
+This project provides a straightforward image encryption tool that utilizes basic pixel manipulation techniques to encrypt and decrypt images. The tool performs operations such as swapping pixel values and applying basic mathematical transformations to each pixel to obscure the image content. It is designed to offer a simple yet effective method for protecting images from unauthorized access. Users can easily encrypt an image to protect its content and decrypt it back to its original form using the provided functions.
